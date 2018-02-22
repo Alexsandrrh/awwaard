@@ -4,10 +4,6 @@
     border-bottom: 2px solid #000000;
 }
 
-.header img {
-    height: 60px;
-}
-
 .header-logo {
     display: flex;
     align-items: center;
