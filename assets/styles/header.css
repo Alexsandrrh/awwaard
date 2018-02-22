@@ -80,7 +80,7 @@
 
 .mobile-nav.-open .nav-toggle i:nth-child(2) {
     transform: rotate(45deg);
-    margin-bottom: -10px;
+    margin-bottom: -11px;
 }
 
 .mobile-nav.-open .nav-toggle i:last-child {
