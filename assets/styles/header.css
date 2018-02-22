@@ -7,3 +7,11 @@
 .header img {
     height: 60px;
 }
+
+.header-logo {
+    display: flex;
+}
+
+.header-logo img {
+    align-items: center;
+}
