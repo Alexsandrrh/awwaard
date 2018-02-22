@@ -10,8 +10,7 @@
 
 .header-logo {
     display: flex;
+    align-items: center;
+    height: 50px;
 }
 
-.header-logo img {
-    align-items: center;
-}
