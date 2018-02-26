@@ -71,7 +71,7 @@
 
 .mobile-nav.-open .nav-toggle i:first-child {
     opacity: 0;
-    transform: .5s;
+    transition: .5s;
 }
 
 .mobile-nav.-open .nav-toggle {
@@ -81,9 +81,11 @@
 .mobile-nav.-open .nav-toggle i:nth-child(2) {
     transform: rotate(45deg);
     margin-bottom: -11px;
+    transition: 0.8s;
 }
 
 .mobile-nav.-open .nav-toggle i:last-child {
     transform: rotate(-45deg);
+    transition: 0.8s;
 }
 
